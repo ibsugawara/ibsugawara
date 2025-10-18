@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Estudando agora: Python e Javascript.<br>🎯 Objetivo: conseguir meu primeiro estágio e dar início na minha trajetória em tecnologia.</p>
+<p align="left">📚 Estudando agora: Python, Análise de Dados e Machine Learning.<br>🎯 Objetivo: conquistar meu primeiro estágio para desenvolver minhas habilidades e iniciar minha trajetória profissional na área de tecnologia.</p>
 
 ###
 
